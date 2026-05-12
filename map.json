@@ -105,7 +105,7 @@
     "uploadedAt": "2026-05-12T14:02:35.136Z"
   },
   "xnkbc9": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/xnkbc9-roxy-tourl-1778598722077-e6v5xr.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/xnkbc9-roxy-tourl-1778598722077-e6v5xr.jpg",
     "ext": ".jpg",
@@ -113,7 +113,8 @@
     "name": "roxy-tourl-1778598722077-e6v5xr.jpg",
     "size": 890119,
     "uploadedAt": "2026-05-12T15:12:05.737Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-12T15:12:05.972Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-12T15:12:07.742Z",
+    "readyAt": "2026-05-12T15:12:07.649Z"
   }
 }
