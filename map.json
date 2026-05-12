@@ -144,7 +144,7 @@
     "readyAt": "2026-05-12T15:16:31.529Z"
   },
   "uyq8rq": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/uyq8rq-roxy-upload-1778599009869-91x8i0.mp4",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/uyq8rq-roxy-upload-1778599009869-91x8i0.mp4",
     "ext": ".mp4",
@@ -152,7 +152,8 @@
     "name": "roxy-upload-1778599009869-91x8i0.mp4",
     "size": 924139,
     "uploadedAt": "2026-05-12T15:16:52.849Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-12T15:16:53.023Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-12T15:16:55.427Z",
+    "readyAt": "2026-05-12T15:16:55.302Z"
   }
 }
