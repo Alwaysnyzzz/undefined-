@@ -155,5 +155,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-12T15:16:55.427Z",
     "readyAt": "2026-05-12T15:16:55.302Z"
+  },
+  "3yj4y8": {
+    "status": "pending",
+    "path": "files/3yj4y8-roxy-upload-1778599487960-g0ckq2.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/3yj4y8-roxy-upload-1778599487960-g0ckq2.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1778599487960-g0ckq2.jpg",
+    "size": 890119,
+    "uploadedAt": "2026-05-12T15:24:51.618Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-12T15:24:51.778Z"
   }
 }
