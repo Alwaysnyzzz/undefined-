@@ -61,5 +61,12 @@
     "name": "IMG-20260511-WA0000.jpg",
     "size": 35863,
     "uploadedAt": "2026-05-11T12:53:28.548Z"
+  },
+  "sps5bn": {
+    "path": "files/sps5bn.jpg",
+    "ext": ".jpg",
+    "name": "roxy-upload-1778566407935.jpg",
+    "size": 165865,
+    "uploadedAt": "2026-05-12T06:13:31.192Z"
   }
 }
