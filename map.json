@@ -118,7 +118,7 @@
     "readyAt": "2026-05-12T15:12:07.649Z"
   },
   "ynv64e": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/ynv64e-img-20260509-wa0050.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/ynv64e-img-20260509-wa0050.jpg",
     "ext": ".jpg",
@@ -126,7 +126,8 @@
     "name": "img-20260509-wa0050.jpg",
     "size": 1742835,
     "uploadedAt": "2026-05-12T15:13:04.904Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-12T15:13:05.037Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-12T15:13:07.371Z",
+    "readyAt": "2026-05-12T15:13:07.280Z"
   }
 }
