@@ -129,5 +129,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-12T15:13:07.371Z",
     "readyAt": "2026-05-12T15:13:07.280Z"
+  },
+  "brj4h2": {
+    "status": "pending",
+    "path": "files/brj4h2-roxy-upload-1778598988299-c0esr5.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/brj4h2-roxy-upload-1778598988299-c0esr5.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1778598988299-c0esr5.jpg",
+    "size": 188582,
+    "uploadedAt": "2026-05-12T15:16:29.798Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-12T15:16:29.902Z"
   }
 }
