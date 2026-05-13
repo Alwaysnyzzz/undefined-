@@ -170,7 +170,7 @@
     "readyAt": "2026-05-12T15:24:53.879Z"
   },
   "6zlgqe": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/6zlgqe-roxy-upload-1778712990621-d2eqtq.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/6zlgqe-roxy-upload-1778712990621-d2eqtq.jpg",
     "ext": ".jpg",
@@ -178,7 +178,8 @@
     "name": "roxy-upload-1778712990621-d2eqtq.jpg",
     "size": 55529,
     "uploadedAt": "2026-05-13T22:56:31.957Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-13T22:56:32.115Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-13T22:56:33.402Z",
+    "readyAt": "2026-05-13T22:56:33.307Z"
   }
 }
