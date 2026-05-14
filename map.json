@@ -183,7 +183,7 @@
     "readyAt": "2026-05-13T22:56:33.307Z"
   },
   "gaguqm": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/gaguqm-roxy-tourl-1778773466152-krhhl4.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/gaguqm-roxy-tourl-1778773466152-krhhl4.jpg",
     "ext": ".jpg",
@@ -191,7 +191,8 @@
     "name": "roxy-tourl-1778773466152-krhhl4.jpg",
     "size": 55788,
     "uploadedAt": "2026-05-14T15:44:27.426Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-14T15:44:27.647Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-14T15:44:29.135Z",
+    "readyAt": "2026-05-14T15:44:29.009Z"
   }
 }
