@@ -207,5 +207,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-15T07:42:59.088Z",
     "readyAt": "2026-05-15T07:42:58.995Z"
+  },
+  "83xjc5": {
+    "status": "pending",
+    "path": "files/83xjc5-roxy-upload-1778834440242-ituvq7.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/83xjc5-roxy-upload-1778834440242-ituvq7.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1778834440242-ituvq7.jpg",
+    "size": 326273,
+    "uploadedAt": "2026-05-15T08:40:42.471Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-15T08:40:42.639Z"
   }
 }
