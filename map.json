@@ -196,7 +196,7 @@
     "readyAt": "2026-05-14T15:44:29.009Z"
   },
   "4mx3l3": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/4mx3l3-roxy-upload-1778830974579-iftjef.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/4mx3l3-roxy-upload-1778830974579-iftjef.jpg",
     "ext": ".jpg",
@@ -204,7 +204,8 @@
     "name": "roxy-upload-1778830974579-iftjef.jpg",
     "size": 556717,
     "uploadedAt": "2026-05-15T07:42:57.460Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-15T07:42:57.638Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-15T07:42:59.088Z",
+    "readyAt": "2026-05-15T07:42:58.995Z"
   }
 }
