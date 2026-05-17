@@ -235,7 +235,7 @@
     "readyAt": "2026-05-17T01:02:59.831Z"
   },
   "9y0bpd": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/9y0bpd-944b6fe468ac28aa732ef7b792b39c1a.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/9y0bpd-944b6fe468ac28aa732ef7b792b39c1a.jpg",
     "ext": ".jpg",
@@ -243,7 +243,8 @@
     "name": "944b6fe468ac28aa732ef7b792b39c1a.jpg",
     "size": 24447,
     "uploadedAt": "2026-05-17T13:52:21.757Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-17T13:52:22.012Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-17T13:52:23.127Z",
+    "readyAt": "2026-05-17T13:52:23.049Z"
   }
 }
