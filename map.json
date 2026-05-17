@@ -220,5 +220,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-15T08:40:43.976Z",
     "readyAt": "2026-05-15T08:40:43.892Z"
+  },
+  "tw0a4d": {
+    "status": "pending",
+    "path": "files/tw0a4d-roxy-upload-1778979777525-qf40af.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/tw0a4d-roxy-upload-1778979777525-qf40af.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1778979777525-qf40af.jpg",
+    "size": 52189,
+    "uploadedAt": "2026-05-17T01:02:58.539Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-17T01:02:58.727Z"
   }
 }
