@@ -248,7 +248,7 @@
     "readyAt": "2026-05-17T13:52:23.049Z"
   },
   "7nkl1x": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/7nkl1x-roxy-tourl-1779175723577-vrwofr.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/7nkl1x-roxy-tourl-1779175723577-vrwofr.jpg",
     "ext": ".jpg",
@@ -256,7 +256,8 @@
     "name": "roxy-tourl-1779175723577-vrwofr.jpg",
     "size": 111338,
     "uploadedAt": "2026-05-19T07:28:46.518Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-19T07:28:46.704Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-19T07:28:48.509Z",
+    "readyAt": "2026-05-19T07:28:48.366Z"
   }
 }
