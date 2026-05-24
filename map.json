@@ -259,5 +259,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-19T07:28:48.509Z",
     "readyAt": "2026-05-19T07:28:48.366Z"
+  },
+  "vz513h": {
+    "status": "pending",
+    "path": "files/vz513h-roxy-upload-1779618544347-6vb5r6.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/vz513h-roxy-upload-1779618544347-6vb5r6.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "roxy-upload-1779618544347-6vb5r6.mp4",
+    "size": 1813956,
+    "uploadedAt": "2026-05-24T10:29:08.331Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-24T10:29:08.509Z"
   }
 }
