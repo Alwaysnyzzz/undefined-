@@ -274,7 +274,7 @@
     "readyAt": "2026-05-24T10:29:09.953Z"
   },
   "on12fx": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/on12fx-roxy-tourl-1779714976483-i052ym.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/on12fx-roxy-tourl-1779714976483-i052ym.jpg",
     "ext": ".jpg",
@@ -282,7 +282,8 @@
     "name": "roxy-tourl-1779714976483-i052ym.jpg",
     "size": 87889,
     "uploadedAt": "2026-05-25T13:16:18.117Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-25T13:16:18.364Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-25T13:16:20.057Z",
+    "readyAt": "2026-05-25T13:16:19.943Z"
   }
 }
