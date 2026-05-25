@@ -311,5 +311,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-25T16:28:00.304Z",
     "readyAt": "2026-05-25T16:28:00.219Z"
+  },
+  "p39sbj": {
+    "status": "pending",
+    "path": "files/p39sbj-roxy-upload-1779726805971-m3h3i5.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/p39sbj-roxy-upload-1779726805971-m3h3i5.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1779726805971-m3h3i5.jpg",
+    "size": 222590,
+    "uploadedAt": "2026-05-25T16:33:27.243Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-25T16:33:27.317Z"
   }
 }
