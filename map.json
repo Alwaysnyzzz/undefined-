@@ -324,5 +324,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-25T16:33:28.700Z",
     "readyAt": "2026-05-25T16:33:28.619Z"
+  },
+  "kgrq8p": {
+    "status": "pending",
+    "path": "files/kgrq8p-roxy-upload-1779726929606-bl1vyn.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/kgrq8p-roxy-upload-1779726929606-bl1vyn.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1779726929606-bl1vyn.jpg",
+    "size": 100181,
+    "uploadedAt": "2026-05-25T16:35:30.394Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-25T16:35:30.529Z"
   }
 }
