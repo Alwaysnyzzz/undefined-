@@ -300,7 +300,7 @@
     "readyAt": "2026-05-25T16:26:54.891Z"
   },
   "lmjalp": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/lmjalp-roxy-upload-1779726478090-gmdfyu.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/lmjalp-roxy-upload-1779726478090-gmdfyu.jpg",
     "ext": ".jpg",
@@ -308,7 +308,8 @@
     "name": "roxy-upload-1779726478090-gmdfyu.jpg",
     "size": 46689,
     "uploadedAt": "2026-05-25T16:27:58.801Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-25T16:27:58.897Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-25T16:28:00.304Z",
+    "readyAt": "2026-05-25T16:28:00.219Z"
   }
 }
