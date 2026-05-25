@@ -287,7 +287,7 @@
     "readyAt": "2026-05-25T13:16:19.943Z"
   },
   "pyn4st": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/pyn4st-roxy-tourl-1779726412461-9www13.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/pyn4st-roxy-tourl-1779726412461-9www13.jpg",
     "ext": ".jpg",
@@ -295,7 +295,8 @@
     "name": "roxy-tourl-1779726412461-9www13.jpg",
     "size": 25258,
     "uploadedAt": "2026-05-25T16:26:53.570Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-25T16:26:53.784Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-25T16:26:54.977Z",
+    "readyAt": "2026-05-25T16:26:54.891Z"
   }
 }
