@@ -337,5 +337,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-25T16:35:31.964Z",
     "readyAt": "2026-05-25T16:35:31.883Z"
+  },
+  "8egc8z": {
+    "status": "pending",
+    "path": "files/8egc8z-roxy-upload-1780094312471-j89wzw.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/8egc8z-roxy-upload-1780094312471-j89wzw.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780094312471-j89wzw.jpg",
+    "size": 338206,
+    "uploadedAt": "2026-05-29T22:38:34.804Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-29T22:38:35.023Z"
   }
 }
