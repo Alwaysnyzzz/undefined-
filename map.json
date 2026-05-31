@@ -350,5 +350,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-29T22:38:36.471Z",
     "readyAt": "2026-05-29T22:38:36.371Z"
+  },
+  "83vgcj": {
+    "status": "pending",
+    "path": "files/83vgcj-roxy-tourl-1780190459152-lqm64i.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/83vgcj-roxy-tourl-1780190459152-lqm64i.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1780190459152-lqm64i.jpg",
+    "size": 201670,
+    "uploadedAt": "2026-05-31T01:21:01.007Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:21:01.181Z"
   }
 }
