@@ -545,5 +545,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T02:09:03.084Z",
     "readyAt": "2026-05-31T02:09:02.995Z"
+  },
+  "lgv6a3": {
+    "status": "pending",
+    "path": "files/lgv6a3-roxy-upload-1780201047001-xb9tt1.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/lgv6a3-roxy-upload-1780201047001-xb9tt1.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780201047001-xb9tt1.jpg",
+    "size": 338206,
+    "uploadedAt": "2026-05-31T04:17:28.872Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T04:17:29.045Z"
   }
 }
