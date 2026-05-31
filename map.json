@@ -506,5 +506,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:31:43.273Z",
     "readyAt": "2026-05-31T01:31:43.199Z"
+  },
+  "0a3tei": {
+    "status": "pending",
+    "path": "files/0a3tei-roxy-upload-1780192415249-ab6bpw.mp3",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/0a3tei-roxy-upload-1780192415249-ab6bpw.mp3",
+    "ext": ".mp3",
+    "mime": "audio/mpeg",
+    "name": "roxy-upload-1780192415249-ab6bpw.mp3",
+    "size": 442245,
+    "uploadedAt": "2026-05-31T01:53:37.642Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:53:37.803Z"
   }
 }
