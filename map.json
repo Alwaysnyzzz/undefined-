@@ -428,5 +428,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:26:09.718Z",
     "readyAt": "2026-05-31T01:26:09.639Z"
+  },
+  "dddndk": {
+    "status": "pending",
+    "path": "files/dddndk-roxy-upload-1780190808854-vdaqtv.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/dddndk-roxy-upload-1780190808854-vdaqtv.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190808854-vdaqtv.jpg",
+    "size": 198806,
+    "uploadedAt": "2026-05-31T01:26:50.237Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:26:50.320Z"
   }
 }
