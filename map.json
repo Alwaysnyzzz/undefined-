@@ -610,5 +610,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T06:19:57.556Z",
     "readyAt": "2026-05-31T06:19:57.477Z"
+  },
+  "36r69c": {
+    "status": "pending",
+    "path": "files/36r69c-roxy-tourl-1780213625066-05tij7.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/36r69c-roxy-tourl-1780213625066-05tij7.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1780213625066-05tij7.jpg",
+    "size": 110024,
+    "uploadedAt": "2026-05-31T07:47:06.477Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T07:47:06.663Z"
   }
 }
