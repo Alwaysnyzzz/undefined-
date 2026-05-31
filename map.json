@@ -623,5 +623,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T07:47:07.936Z",
     "readyAt": "2026-05-31T07:47:07.849Z"
+  },
+  "p7pwgp": {
+    "status": "pending",
+    "path": "files/p7pwgp-roxy-tourl-1780213712224-eebbcr.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/p7pwgp-roxy-tourl-1780213712224-eebbcr.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1780213712224-eebbcr.jpg",
+    "size": 164541,
+    "uploadedAt": "2026-05-31T07:48:33.304Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T07:48:33.390Z"
   }
 }
