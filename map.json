@@ -415,5 +415,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:25:25.560Z",
     "readyAt": "2026-05-31T01:25:25.481Z"
+  },
+  "6rb5kv": {
+    "status": "pending",
+    "path": "files/6rb5kv-roxy-upload-1780190766933-nq2ygw.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/6rb5kv-roxy-upload-1780190766933-nq2ygw.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190766933-nq2ygw.jpg",
+    "size": 219197,
+    "uploadedAt": "2026-05-31T01:26:08.392Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:26:08.477Z"
   }
 }
