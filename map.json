@@ -454,5 +454,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:28:14.830Z",
     "readyAt": "2026-05-31T01:28:14.749Z"
+  },
+  "4fdsn8": {
+    "status": "pending",
+    "path": "files/4fdsn8-roxy-upload-1780190925935-b9chxh.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/4fdsn8-roxy-upload-1780190925935-b9chxh.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190925935-b9chxh.jpg",
+    "size": 197265,
+    "uploadedAt": "2026-05-31T01:28:47.277Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:28:47.360Z"
   }
 }
