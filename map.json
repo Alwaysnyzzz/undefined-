@@ -389,5 +389,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:24:25.451Z",
     "readyAt": "2026-05-31T01:24:25.373Z"
+  },
+  "bzjc03": {
+    "status": "pending",
+    "path": "files/bzjc03-roxy-upload-1780190695527-ufy843.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/bzjc03-roxy-upload-1780190695527-ufy843.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190695527-ufy843.jpg",
+    "size": 151789,
+    "uploadedAt": "2026-05-31T01:24:56.697Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:24:56.781Z"
   }
 }
