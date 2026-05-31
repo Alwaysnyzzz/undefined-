@@ -571,5 +571,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T05:19:06.973Z",
     "readyAt": "2026-05-31T05:19:06.888Z"
+  },
+  "pj2mah": {
+    "status": "pending",
+    "path": "files/pj2mah-roxy-upload-1780208197359-o4in38.webp",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/pj2mah-roxy-upload-1780208197359-o4in38.webp",
+    "ext": ".webp",
+    "mime": "image/webp",
+    "name": "roxy-upload-1780208197359-o4in38.webp",
+    "size": 485966,
+    "uploadedAt": "2026-05-31T06:16:39.820Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T06:16:39.972Z"
   }
 }
