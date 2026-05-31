@@ -480,5 +480,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:29:13.392Z",
     "readyAt": "2026-05-31T01:29:13.303Z"
+  },
+  "sfiukj": {
+    "status": "pending",
+    "path": "files/sfiukj-roxy-upload-1780191016696-b8q2qe.mp4",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/sfiukj-roxy-upload-1780191016696-b8q2qe.mp4",
+    "ext": ".mp4",
+    "mime": "video/mp4",
+    "name": "roxy-upload-1780191016696-b8q2qe.mp4",
+    "size": 1581768,
+    "uploadedAt": "2026-05-31T01:30:19.995Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:30:20.097Z"
   }
 }
