@@ -638,7 +638,7 @@
     "readyAt": "2026-05-31T07:48:34.583Z"
   },
   "74n16n": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/74n16n-roxy-tourl-1780214141398-glsuya.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/74n16n-roxy-tourl-1780214141398-glsuya.jpg",
     "ext": ".jpg",
@@ -646,7 +646,8 @@
     "name": "roxy-tourl-1780214141398-glsuya.jpg",
     "size": 117113,
     "uploadedAt": "2026-05-31T07:55:42.823Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-31T07:55:42.989Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-31T07:55:44.199Z",
+    "readyAt": "2026-05-31T07:55:44.123Z"
   }
 }
