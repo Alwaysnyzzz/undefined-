@@ -363,5 +363,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:21:02.413Z",
     "readyAt": "2026-05-31T01:21:02.336Z"
+  },
+  "9s8tv4": {
+    "status": "pending",
+    "path": "files/9s8tv4-roxy-upload-1780190624745-kidmnq.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/9s8tv4-roxy-upload-1780190624745-kidmnq.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190624745-kidmnq.jpg",
+    "size": 151031,
+    "uploadedAt": "2026-05-31T01:23:45.597Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:23:45.694Z"
   }
 }
