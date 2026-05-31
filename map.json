@@ -493,5 +493,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:30:21.772Z",
     "readyAt": "2026-05-31T01:30:21.685Z"
+  },
+  "ud7cqn": {
+    "status": "pending",
+    "path": "files/ud7cqn-roxy-upload-1780191100252-efuub5.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/ud7cqn-roxy-upload-1780191100252-efuub5.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780191100252-efuub5.jpg",
+    "size": 338206,
+    "uploadedAt": "2026-05-31T01:31:41.961Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:31:42.030Z"
   }
 }
