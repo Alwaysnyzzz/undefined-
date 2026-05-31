@@ -586,7 +586,7 @@
     "readyAt": "2026-05-31T06:16:41.305Z"
   },
   "olrahr": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/olrahr-roxy-tourl-1780208273024-n1s0zc.webp",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/olrahr-roxy-tourl-1780208273024-n1s0zc.webp",
     "ext": ".webp",
@@ -594,7 +594,8 @@
     "name": "roxy-tourl-1780208273024-n1s0zc.webp",
     "size": 485966,
     "uploadedAt": "2026-05-31T06:17:55.769Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-31T06:17:55.940Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-31T06:17:57.303Z",
+    "readyAt": "2026-05-31T06:17:57.229Z"
   }
 }
