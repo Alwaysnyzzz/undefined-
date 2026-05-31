@@ -558,5 +558,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T04:17:30.329Z",
     "readyAt": "2026-05-31T04:17:30.247Z"
+  },
+  "8pywby": {
+    "status": "pending",
+    "path": "files/8pywby-roxy-upload-1780204743818-0lj1il.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/8pywby-roxy-upload-1780204743818-0lj1il.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780204743818-0lj1il.jpg",
+    "size": 219197,
+    "uploadedAt": "2026-05-31T05:19:05.488Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T05:19:05.669Z"
   }
 }
