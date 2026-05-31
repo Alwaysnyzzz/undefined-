@@ -402,5 +402,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:24:57.961Z",
     "readyAt": "2026-05-31T01:24:57.887Z"
+  },
+  "mi6qr9": {
+    "status": "pending",
+    "path": "files/mi6qr9-roxy-upload-1780190723000-hu3k0g.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/mi6qr9-roxy-upload-1780190723000-hu3k0g.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780190723000-hu3k0g.jpg",
+    "size": 192593,
+    "uploadedAt": "2026-05-31T01:25:24.127Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T01:25:24.217Z"
   }
 }
