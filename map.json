@@ -599,7 +599,7 @@
     "readyAt": "2026-05-31T06:17:57.229Z"
   },
   "e6g1u2": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/e6g1u2-roxy-tourl-1780208394115-1bz6ht.webp",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/e6g1u2-roxy-tourl-1780208394115-1bz6ht.webp",
     "ext": ".webp",
@@ -607,7 +607,8 @@
     "name": "roxy-tourl-1780208394115-1bz6ht.webp",
     "size": 485966,
     "uploadedAt": "2026-05-31T06:19:56.130Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-31T06:19:56.209Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-31T06:19:57.556Z",
+    "readyAt": "2026-05-31T06:19:57.477Z"
   }
 }
