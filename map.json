@@ -443,7 +443,7 @@
     "readyAt": "2026-05-31T01:26:51.423Z"
   },
   "q766lz": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/q766lz-roxy-upload-1780190892355-fi773l.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/q766lz-roxy-upload-1780190892355-fi773l.jpg",
     "ext": ".jpg",
@@ -451,7 +451,8 @@
     "name": "roxy-upload-1780190892355-fi773l.jpg",
     "size": 206722,
     "uploadedAt": "2026-05-31T01:28:13.510Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-31T01:28:13.599Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-31T01:28:14.830Z",
+    "readyAt": "2026-05-31T01:28:14.749Z"
   }
 }
