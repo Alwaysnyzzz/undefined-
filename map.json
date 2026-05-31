@@ -469,7 +469,7 @@
     "readyAt": "2026-05-31T01:28:48.528Z"
   },
   "esvrlr": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/esvrlr-roxy-upload-1780190950637-e0s6ft.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/esvrlr-roxy-upload-1780190950637-e0s6ft.jpg",
     "ext": ".jpg",
@@ -477,7 +477,8 @@
     "name": "roxy-upload-1780190950637-e0s6ft.jpg",
     "size": 188933,
     "uploadedAt": "2026-05-31T01:29:12.030Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-05-31T01:29:12.099Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-05-31T01:29:13.392Z",
+    "readyAt": "2026-05-31T01:29:13.303Z"
   }
 }
