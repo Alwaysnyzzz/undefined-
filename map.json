@@ -519,5 +519,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-05-31T01:53:39.107Z",
     "readyAt": "2026-05-31T01:53:39.031Z"
+  },
+  "1fd2va": {
+    "status": "pending",
+    "path": "files/1fd2va-roxy-upload-1780193299142-za8ix8.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/1fd2va-roxy-upload-1780193299142-za8ix8.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780193299142-za8ix8.jpg",
+    "size": 36748,
+    "uploadedAt": "2026-05-31T02:08:20.150Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-05-31T02:08:20.335Z"
   }
 }
