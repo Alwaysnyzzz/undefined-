@@ -675,5 +675,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-02T09:22:22.612Z",
     "readyAt": "2026-06-02T09:22:22.514Z"
+  },
+  "mezu8w": {
+    "status": "pending",
+    "path": "files/mezu8w-roxy-tourl-1780394982504-66t3o7.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/mezu8w-roxy-tourl-1780394982504-66t3o7.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1780394982504-66t3o7.jpg",
+    "size": 526662,
+    "uploadedAt": "2026-06-02T10:09:45.144Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-02T10:09:45.360Z"
   }
 }
