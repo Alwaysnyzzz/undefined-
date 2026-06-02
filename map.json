@@ -688,5 +688,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-02T10:09:47.258Z",
     "readyAt": "2026-06-02T10:09:47.156Z"
+  },
+  "i7iyh6": {
+    "status": "pending",
+    "path": "files/i7iyh6-proyek_baru_11_e5f2335_.png",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/i7iyh6-proyek_baru_11_e5f2335_.png",
+    "ext": ".png",
+    "mime": "image/png",
+    "name": "proyek_baru_11_e5f2335_.png",
+    "size": 1829747,
+    "uploadedAt": "2026-06-02T11:27:42.890Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-02T11:27:43.088Z"
   }
 }
