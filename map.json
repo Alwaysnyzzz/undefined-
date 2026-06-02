@@ -651,7 +651,7 @@
     "readyAt": "2026-05-31T07:55:44.123Z"
   },
   "wus0ea": {
-    "status": "pending",
+    "status": "ready",
     "path": "files/wus0ea-roxy-upload-1780391109354-e9816k.jpg",
     "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/wus0ea-roxy-upload-1780391109354-e9816k.jpg",
     "ext": ".jpg",
@@ -659,7 +659,8 @@
     "name": "roxy-upload-1780391109354-e9816k.jpg",
     "size": 225820,
     "uploadedAt": "2026-06-02T09:05:15.249Z",
-    "message": "File sedang diproses",
-    "updatedAt": "2026-06-02T09:05:15.513Z"
+    "message": "File siap dibuka",
+    "updatedAt": "2026-06-02T09:05:17.421Z",
+    "readyAt": "2026-06-02T09:05:17.262Z"
   }
 }
