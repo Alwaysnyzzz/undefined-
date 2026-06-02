@@ -662,5 +662,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-02T09:05:17.421Z",
     "readyAt": "2026-06-02T09:05:17.262Z"
+  },
+  "it8tpy": {
+    "status": "pending",
+    "path": "files/it8tpy-roxy-upload-1780392137778-0vxso3.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/it8tpy-roxy-upload-1780392137778-0vxso3.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780392137778-0vxso3.jpg",
+    "size": 667848,
+    "uploadedAt": "2026-06-02T09:22:20.684Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-02T09:22:20.900Z"
   }
 }
