@@ -701,5 +701,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-02T11:27:45.879Z",
     "readyAt": "2026-06-02T11:27:45.746Z"
+  },
+  "yja9yg": {
+    "status": "pending",
+    "path": "files/yja9yg-roxy-upload-1780671682798-kinch1.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/yja9yg-roxy-upload-1780671682798-kinch1.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780671682798-kinch1.jpg",
+    "size": 151031,
+    "uploadedAt": "2026-06-05T15:01:24.605Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-05T15:01:24.851Z"
   }
 }
