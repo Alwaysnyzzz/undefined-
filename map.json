@@ -714,5 +714,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-05T15:01:26.430Z",
     "readyAt": "2026-06-05T15:01:26.312Z"
+  },
+  "mrfydo": {
+    "status": "pending",
+    "path": "files/mrfydo-roxy-tourl-1780831528700-rh7idq.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/mrfydo-roxy-tourl-1780831528700-rh7idq.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1780831528700-rh7idq.jpg",
+    "size": 153611,
+    "uploadedAt": "2026-06-07T11:25:30.423Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-07T11:25:30.607Z"
   }
 }
