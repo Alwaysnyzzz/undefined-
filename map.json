@@ -727,5 +727,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-07T11:25:31.848Z",
     "readyAt": "2026-06-07T11:25:31.763Z"
+  },
+  "fgrmvn": {
+    "status": "pending",
+    "path": "files/fgrmvn-roxy-upload-1780986336878-bt9u6q.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/fgrmvn-roxy-upload-1780986336878-bt9u6q.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-upload-1780986336878-bt9u6q.jpg",
+    "size": 25674,
+    "uploadedAt": "2026-06-09T06:25:37.855Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-09T06:25:38.052Z"
   }
 }
