@@ -740,5 +740,17 @@
     "message": "File siap dibuka",
     "updatedAt": "2026-06-09T06:25:39.632Z",
     "readyAt": "2026-06-09T06:25:39.525Z"
+  },
+  "r9v25i": {
+    "status": "pending",
+    "path": "files/r9v25i-roxy-tourl-1782283447346-atnt9w.jpg",
+    "rawUrl": "https://raw.githubusercontent.com/Alwaysnyzzz/undefined-/main/files/r9v25i-roxy-tourl-1782283447346-atnt9w.jpg",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "name": "roxy-tourl-1782283447346-atnt9w.jpg",
+    "size": 125979,
+    "uploadedAt": "2026-06-24T06:44:14.461Z",
+    "message": "File sedang diproses",
+    "updatedAt": "2026-06-24T06:44:14.664Z"
   }
 }
